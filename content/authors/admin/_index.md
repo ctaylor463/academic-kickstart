@@ -15,7 +15,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: Columbia University
-  url: "www.columbia.edu/"
+  #url: "www.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change.
