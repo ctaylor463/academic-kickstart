@@ -70,6 +70,6 @@ email: "cat2180@columbia.edu"
 #- Visitors
 ---
 
-I am a PhD student in Sustainable Development at Columbia University specializing in environmental economics. My research interests include agriculture, land use, ecosystem services, and climate change. Much of my research involves remote sensing, spatial analysis, and some machine learning. 
+I am a PhD student in Sustainable Development at Columbia University specializing in environmental economics. My research interests include agriculture, land use, ecosystem services, and climate change. Much of my research involves satellite data, remote sensing, and some machine learning. 
 
 Prior to academia, I worked for several companies and organizations, including McKinsey & Company, The Earth Partners LP, and the Gates Foundation.
