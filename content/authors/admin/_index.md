@@ -15,7 +15,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: Columbia University
-  url: ""
+  url: "www.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change.
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning. Previously, he worked at McKinsey & Company, the Bill & Melinda Gates Foundation as an agricultural consultant, and The Earth Partners LP, the land and environmental investment company. He cofounded the Drylands Natural Resource Centre, a farmer-owned agro-forestry cooperative and research center in Makueni, Kenya.
+Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning.
