@@ -18,21 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Agriculture
+- Land use
+- Ecosystem services
+- Climate change
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Columbia University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
   - course: BA in Economics, BA in Poltical & Social Thought
     institution: University of Virginia
     year: 2007
