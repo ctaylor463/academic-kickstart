@@ -30,6 +30,8 @@ interests:
 education:
   courses:
   - course: BA in Economics
+    institution: University of Virginia
+    year: 2007
   - course: BA in Poltical & Social Thought
     institution: University of Virginia
     year: 2007
