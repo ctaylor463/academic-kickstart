@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "New York"
   date_start = "2010-01-01"
   date_end = "2016-01-01"
-  description = """Co-founded a land and natural resource investment company focused on finding solutions for marginal and degraded rural lands that simultaneously increase agricultural productivity, rebuild soils, enhance water resources, and support ecosystem services. The company manages a portfolio of businesses and assets that were both developed in-house and acquired from third parties."""
+  description = """Co-founded investment company focused on finding solutions for marginal and degraded rural lands that simultaneously increase agricultural productivity, rebuild soils, enhance water resources, and support ecosystem services. The company manages a portfolio of businesses and assets that were both developed in-house and acquired from third parties."""
 
 [[experience]]
   title = "Board Member"
