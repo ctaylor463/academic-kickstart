@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Makueni, Kenya"
   date_start = "2006-01-01"
   date_end = ""
-  description = """Farmer cooperative with tree nursery, demonstration farm, wood products facility, and education center. Led by Nicholas Syano, a Kenyan expert on dryland ecosystems, the nursery cultivates 20+ indigenous tree species that resist drought, enhance soil and crop yields, improve biodiversity and provide valuable by-products. Drylands has distributed and sold over 1,000,000 trees to thousands of customers. It has partnered closely with over 800 farming households (5,800 people reached) to support sustainable farming and agro-forestry best practices that boost agricultural yields, support the local economy, and restore degraded lands of dryland regions."""
+  description = """Farmer cooperative with tree nursery, demonstration farm, wood products facility, and education center. Led by Nicholas Syano, a Kenyan expert on dryland ecosystems, the nursery cultivates 20+ indigenous tree species that resist drought, enhance soil and crop yields, improve biodiversity and provide valuable by-products. Drylands has distributed and sold over 1,000,000 trees to thousands of customers. It has partnered closely with over 800 farming households (5,000 people reached) to support sustainable farming and agro-forestry best practices that boost agricultural yields, support the local economy, and restore degraded lands of dryland regions."""
 
 [[experience]]
   title = "Consultant"
