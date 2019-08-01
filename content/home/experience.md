@@ -45,6 +45,15 @@ date_format = "Jan 2006"
   description = """Farmer cooperative with tree nursery, demonstration farm, wood products facility, and education center. Led by Nicholas Syano, a Kenyan expert on dryland ecosystems, the nursery cultivates 20+ indigenous tree species that resist drought, enhance soil and crop yields, improve biodiversity and provide valuable by-products. Drylands has distributed and sold over 1,000,000 trees to thousands of customers. It has partnered closely with over 800 farming households (5,800 people reached) to support sustainable farming and agro-forestry best practices that boost agricultural yields, support the local economy, and restore degraded lands of dryland regions."""
 
 [[experience]]
+  title = "Consultant"
+  company = "Bill & Melinda Gates Foundation"
+  company_url = ""
+  location = "Seattle"
+  date_start = "2009-01-01"
+  date_end = "2010-01-01"
+  description = """Structured a program intended to lower the retail price of a key agricultural input commodity in Sub-Saharan Africa. The program involved making strategic interventions across the supply chain, creating a financing consortium that pooled risk and targeted debt/equity investments, and coordinating major suppliers, importers, distributors and buyers."""
+
+[[experience]]
   title = "Business Analyst"
   company = "McKinsey & Company"
   company_url = ""
