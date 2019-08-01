@@ -21,6 +21,7 @@ organizations:
 bio: Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change.
 
 interests:
+- Environmental economics
 - Agriculture and land use
 - Ecosystem services
 - Climate change
@@ -40,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:cat2180@columbia.edu".
+  link: 'mailto:cat2180@columbia.edu'  # For a direct email link, use "mailto:cat2180@columbia.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=irJBU38AAAAJ
@@ -67,4 +68,6 @@ email: "cat2180@columbia.edu"
 #- Visitors
 ---
 
-Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning.
+I am a PhD student in Sustainable Development at Columbia University specializing in environmental economics. My research interests include agriculture, land use, ecosystem services, and climate change. Much of my research involves remote sensing, spatial analysis, and some machine learning. 
+
+Prior to academia, I worked for several companies and organizations, including McKinsey & Company, The Earth Partners LP, and the Gates Foundation.
