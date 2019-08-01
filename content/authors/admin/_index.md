@@ -12,22 +12,13 @@ superuser: true
 # Role/position
 role: PhD student
 
+# Role/position
+role: PhD student
+
 # Organizations/Affiliations
 organizations:
 - name: Columbia University
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  #url: "www.columbia.edu/"
-=======
   url: ""
->>>>>>> parent of 7f19095... Update _index.md
-=======
-  url: ""
->>>>>>> parent of 7f19095... Update _index.md
-=======
-  url: ""
->>>>>>> parent of 7f19095... Update _index.md
 
 # Short bio (displayed in user profile at end of posts)
 bio: Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics.
