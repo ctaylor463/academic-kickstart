@@ -52,7 +52,8 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cat2180@columbia.edu"
 # phone = "888 888 88 88"
-address = """School of International & Public Affairs, Columbia University,<br> 
+address = """School of International & Public Affairs<br>
+             Columbia University<br> 
              420 West 118 Street, New York, NY 10027"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -60,7 +61,7 @@ address = """School of International & Public Affairs, Columbia University,<br>
 #                   Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
