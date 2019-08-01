@@ -65,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning. Previously, he worked at McKinsey & Company, the Bill & Melinda Gates Foundation as an agricultural consultant, and The Earth Partners LP, the land and environmental investment company. He cofounded the Drylands Natural Resource Centre, a farmer-owned agro-forestry cooperative and research center in Makueni, Kenya.
