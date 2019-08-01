@@ -16,7 +16,11 @@ role: PhD student
 organizations:
 - name: Columbia University
 <<<<<<< HEAD
+<<<<<<< HEAD
   #url: "www.columbia.edu/"
+=======
+  url: ""
+>>>>>>> parent of 7f19095... Update _index.md
 =======
   url: ""
 >>>>>>> parent of 7f19095... Update _index.md
@@ -73,9 +77,13 @@ email: "cat2180@columbia.edu"
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am a PhD student in Sustainable Development at Columbia University specializing in environmental economics. My research interests include agriculture, land use, ecosystem services, and climate change. Much of my research involves remote sensing, spatial analysis, and some machine learning. 
 
 Prior to academia, I worked for several companies and organizations, including McKinsey & Company, The Earth Partners LP, and the Gates Foundation.
+=======
+Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning. Previously, he worked at McKinsey & Company, the Bill & Melinda Gates Foundation as an agricultural consultant, and The Earth Partners LP, the land and environmental investment company. He cofounded the Drylands Natural Resource Centre, a farmer-owned agro-forestry cooperative and research center in Makueni, Kenya.
+>>>>>>> parent of 7f19095... Update _index.md
 =======
 Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning. Previously, he worked at McKinsey & Company, the Bill & Melinda Gates Foundation as an agricultural consultant, and The Earth Partners LP, the land and environmental investment company. He cofounded the Drylands Natural Resource Centre, a farmer-owned agro-forestry cooperative and research center in Makueni, Kenya.
 >>>>>>> parent of 7f19095... Update _index.md
