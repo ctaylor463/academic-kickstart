@@ -28,7 +28,8 @@ interests:
 
 education:
   courses:
-  - course: BA in Economics, BA in Poltical & Social Thought
+  - course: BA in Economics
+  - course: BA in Poltical & Social Thought
     institution: University of Virginia
     year: 2007
 
@@ -61,9 +62,9 @@ email: "cat2180@columbia.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Charles Taylor is a PhD student in Sustainable Development at Columbia University specializing in environmental economics. His research interests include agriculture, land use, ecosystem services, and climate change. Much of his research involves utilizing remote sensing, spatial analysis, and some machine learning.
