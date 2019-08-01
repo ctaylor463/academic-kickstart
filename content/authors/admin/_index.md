@@ -12,9 +12,6 @@ superuser: true
 # Role/position
 role: PhD student
 
-# Role/position
-role: PhD student
-
 # Organizations/Affiliations
 organizations:
 - name: Columbia University
