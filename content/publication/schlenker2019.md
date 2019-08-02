@@ -1,11 +1,11 @@
 +++
-title = "Market Expectations About Climate Change"
+title = "Market Expectations About Climate Change (with Wolfram Shlenker), NBER Working Paper, 2019"
 
 # Date first published.
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wofram Schlenker", "Charles Taylor"]
+#authors = ["Wofram Schlenker", "Charles Taylor"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,12 @@ authors = ["Wofram Schlenker", "Charles Taylor"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+#publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+#publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = ""http://www.nber.org/papers/w25554"}"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://www.nber.org/papers/w25554"}]
+#url_custom = [{name = "Custom Link", url = "http://www.nber.org/papers/w25554"}]
 
 # Does the content use math formatting?
 math = true
