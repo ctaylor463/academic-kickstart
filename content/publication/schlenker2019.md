@@ -1,5 +1,5 @@
 +++
-title = "Market Expectations About Climate Change (with Wolfram Shlenker), NBER Working Paper, 2019"
+title = "Market Expectations About Climate Change (with Wolfram Schlenker), NBER Working Paper, 2019"
 
 # Date first published.
 date = "2019-08-01"
