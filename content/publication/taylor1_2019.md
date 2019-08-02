@@ -1,8 +1,8 @@
 +++
-title = "Market Expectations About Climate Change (with Wolfram Shlenker), NBER Working Paper, 2019"
+title = "Cicadas, Pesticides, and Health: the Impact of Insecticides on Infant Mortality and Other Long Term Outcomes, Working Paper, 2019"
 
 # Date first published.
-date = "2019-08-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 #authors = ["Wofram Schlenker", "Charles Taylor"]
@@ -39,7 +39,7 @@ selected = true
 #projects = []
 
 # Links (optional).
-url_pdf = "http://www.nber.org/papers/w25554"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
