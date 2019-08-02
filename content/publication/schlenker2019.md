@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""http://www.nber.org/papers/w25554"}"
+url_pdf = "http://www.nber.org/papers/w25554"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
