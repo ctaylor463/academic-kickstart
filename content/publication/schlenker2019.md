@@ -16,7 +16,7 @@ date = "2019-01-01"
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+#publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 #publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
@@ -27,7 +27,7 @@ publication_types = ["2"]
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+#projects = []
 
 # Links (optional).
 url_pdf = "http://www.nber.org/papers/w25554"
