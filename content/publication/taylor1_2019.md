@@ -5,7 +5,7 @@ title = "Cicadas, Pesticides, and Health: the Impact of Insecticides on Infant M
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = ["Wofram Schlenker", "Charles Taylor"]
+authors = ["Wofram Schlenker", "Charles Taylor"]
 
 # Publication type.
 # Legend:
