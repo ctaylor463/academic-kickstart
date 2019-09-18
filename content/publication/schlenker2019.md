@@ -1,11 +1,11 @@
 +++
-title = "Market Expectations About Climate Change (with Wolfram Schlenker), NBER Working Paper, 2019"
+title = "Market Expectations About Climate Change, NBER Working Paper, 2019"
 
 # Date first published.
 date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = ["Wofram Schlenker", "Charles Taylor"]
+authors = ["Wofram Schlenker", "Charles A. Taylor"]
 
 # Publication type.
 # Legend:
