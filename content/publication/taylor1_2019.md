@@ -1,11 +1,11 @@
 +++
-title = "Cicadas, Pesticides, and Health: the Impact of Insecticides on Infant Mortality and Other Long Term Outcomes, Working Paper, 2019"
+title = "The Cicada Song: the Impact of Insecticides on Infant Health and Long-term Outcomes"
 
 # Date first published.
-date = "2019-01-01"
+date = "2019-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wofram Schlenker", "Charles Taylor"]
+authors = ["Charles A. Taylor"]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ authors = ["Wofram Schlenker", "Charles Taylor"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-#publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-#publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication = "CEEP Working Paper Series"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ selected = true
 #projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ceep.columbia.edu/sites/default/files/content/papers/n9.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
