@@ -19,7 +19,7 @@ authors = ["Charles A. Taylor"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "CEEP Working Paper Series"
+publication = "CEEP Working Paper Series, Columbia University"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
