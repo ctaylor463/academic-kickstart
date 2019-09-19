@@ -19,7 +19,7 @@ authors = ["Wofram Schlenker", "Charles A. Taylor"]
 #publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "NBER Working Paper
+publication = "NBER Working Paper //
 CEEP Working Paper Series, Center for Environmental Economics and Policy, Columbia University."
 #publication_short = "In *ICA*"
 
@@ -48,7 +48,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://ceep.columbia.edu/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
