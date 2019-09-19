@@ -19,7 +19,8 @@ authors = ["Wofram Schlenker", "Charles A. Taylor"]
 #publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-#publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication = "NBER Working Paper 
+CEEP Working Paper Series, Center for Environmental Economics and Policy, Columbia University"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.

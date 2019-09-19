@@ -1,5 +1,5 @@
 +++
-title = "The Cicada Song: the Impact of Insecticides on Infant Health and Long-term Outcomes"
+title = "The Cicada Song: the Impact of Insecticides on Infant Health and Long-term Outcomes, CEEP Working Paper, 2019"
 
 # Date first published.
 date = "2019-09-01"
@@ -19,7 +19,7 @@ authors = ["Charles A. Taylor"]
 #publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "CEEP Working Paper Series, Columbia University"
+publication = "CEEP Working Paper Series, Center for Environmental Economics and Policy, Columbia University."
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
