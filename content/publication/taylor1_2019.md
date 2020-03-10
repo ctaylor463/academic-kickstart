@@ -38,10 +38,8 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #projects = []
 
-https://github.com/ctaylor463/academic-kickstart/blob/master/content/publication/Cicada_Health_Taylor_Feb2020.pdf
 # Links (optional).
-url_pdf = "https://github.com/ctaylor463/academic-kickstart/blob/master/content/publication/Cicada_Health_Taylor_Feb2020.pdf"
-#"https://ceep.columbia.edu/sites/default/files/content/papers/n9.pdf"
+url_pdf = "https://ceep.columbia.edu/sites/default/files/content/papers/n9.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -49,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-#url_source = "http://ceep.columbia.edu/"
+url_source = "http://ceep.columbia.edu/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
